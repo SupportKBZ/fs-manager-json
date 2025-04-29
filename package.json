@@ -15,7 +15,12 @@
         "json",
         "structure"
     ],
-    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SupportKBZ/fs-manager-json.git"
+    },
+    "homepage": "https://github.com/SupportKBZ/fs-manager-json",
+    "author": "Mathieu Menegain",
     "license": "ISC",
     "devDependencies": {
         "@types/node": "^20.17.32",
