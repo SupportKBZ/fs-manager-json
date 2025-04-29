@@ -1,0 +1,13 @@
+{
+    "folder": {
+        "file.txt": "Hello, world!",
+        "subfolder": {
+            "file2.txt": "Hello, world!",
+            "file3.txt": "Hello, world!",
+            "file4.txt": "Hello, world!"
+        },
+        "subfolder2": {
+            "file5.txt": "Hello, world!"
+        }
+    }
+}

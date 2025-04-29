@@ -1,0 +1,24 @@
+{
+    "name": "fs-manager-json",
+    "version": "1.0.0",
+    "description": "Un outil pour créer une structure de fichiers basée sur un fichier JSON",
+    "main": "dist/index.js",
+    "bin": {
+        "fs-manager-json": "./dist/index.js"
+    },
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build"
+    },
+    "keywords": [
+        "filesystem",
+        "json",
+        "structure"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.17.32",
+        "typescript": "^5.3.3"
+    }
+}
